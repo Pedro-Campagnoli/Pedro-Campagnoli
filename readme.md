@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pedro Campagnoli
-🚀 Junior QA Engineer | Quality Assurance  
+🚀 QA Engineer | Quality Assurance  
 💻 Full Stack Background (Node.js, NestJS, React, Next.js)  
 🔎 Focused on Test Automation, API Testing and Software Quality
 
