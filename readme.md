@@ -1,59 +1,70 @@
 <h1 align="center">👋 Olá, eu sou Pedro Campagnoli</h1>
 
 <p align="center">
-  🚀 <strong>QA Engineer</strong> • Quality Assurance Specialist<br/>
-  💻 Background Full Stack (Node.js • NestJS • React • Next.js)<br/>
-  🔎 Focado em Test Automation, API Testing e Software Quality
+  💻 <strong>Full Stack Developer</strong> • Node.js • NestJS • React • Next.js<br/>
+  🧪 <strong>QA Engineer</strong> • Test Automation • API Testing • Software Quality<br/>
+  🚀 Construindo software com qualidade de ponta a ponta
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Profissional de tecnologia em transição para **Quality Assurance**, com sólida experiência prática em **desenvolvimento Full Stack**.
+Profissional de tecnologia com atuação **dual** em **Desenvolvimento Full Stack** e **Quality Assurance**.
 
-Minha vivência como desenvolvedor me dá uma visão **end-to-end** das aplicações — o que torna minha atuação em QA mais estratégica na investigação de bugs, no desenho de cenários de teste e na colaboração próxima com os times de desenvolvimento.
+Essa combinação me permite **construir aplicações robustas** e, ao mesmo tempo, **garantir sua qualidade** através de testes estratégicos — desde o código até a experiência do usuário final.
 
-> 💡 Apaixonado por entregar software **estável, confiável e centrado no usuário**.
+> 💡 Acredito que **desenvolver e testar caminham juntos**: software de qualidade nasce de uma mentalidade que une ambas as visões.
 
 ---
 
-## 🧪 Skills em QA
+## 💻 Full Stack Development
 
+### ⚙️ Backend
+- **Node.js** • **NestJS**
+- Desenvolvimento de **REST APIs**
+- Arquitetura modular e boas práticas de código
+
+### 🎨 Frontend
+- **JavaScript** • **HTML** • **CSS**
+- **React.js** • **Next.js**
+- **Tailwind CSS** — utility-first, design responsivo
+- Construção de interfaces responsivas e fluxos de usuário intuitivos
+
+### 🗄️ Banco de Dados & Ferramentas
+- **SQL** — modelagem e queries
+- **Git & GitHub** — versionamento e colaboração
+- **Postman** — desenvolvimento e teste de APIs
+
+---
+
+## 🧪 Quality Assurance
+
+### 🤖 Test Automation
+- **Cypress** — E2E automation, custom commands, arquitetura modular
+- **Playwright** — E2E automation, cross-browser testing
+- **Jest** — testes unitários e de integração, mocking, coverage reports
+
+### 🔌 API & Data Testing
+- **Postman** — validação de endpoints, status codes, response body e regras de negócio
+- **SQL Data Validation** — verificação de integridade de dados
+
+### 🧩 Práticas de QA
 | Área | Competências |
 |------|--------------|
-| 🧩 **Testes Funcionais** | Functional & Regression Testing |
-| 🤖 **Automação** | Cypress, Playwright |
-| 🔌 **API Testing** | Postman, validação de contratos e regras de negócio |
-| 📝 **Documentação** | Test Case Design, Bug Tracking & Reporting |
-| 🗄️ **Banco de Dados** | SQL Data Validation |
+| 🧪 **Testes Funcionais** | Functional & Regression Testing |
+| 📝 **Documentação** | Test Case Design & Documentation |
+| 🐛 **Gestão de Bugs** | Bug Tracking & Reporting |
 | 🔄 **Metodologias** | Agile Testing (Scrum / Kanban) |
 
 ---
 
-## 💻 Stack Técnica
+## 📂 Portfólio
 
-### 🤖 Test Automation
-- **Cypress** — E2E, custom commands, arquitetura modular
-- **Playwright** — E2E com cross-browser testing
-- **Jest** — Testes unitários e de integração, mocking, coverage reports
-
-### ⚙️ Backend
-- Node.js • NestJS
-- REST APIs
-
-### 🎨 Frontend
-- JavaScript • HTML • CSS
-- React.js • Next.js
-- Tailwind CSS (utility-first, design responsivo)
-- Validação de fluxos de usuário e interfaces responsivas
-
-### 🛠️ Ferramentas
-- Postman • Git & GitHub • SQL
-
----
-
-## 📂 Portfólio de QA
+### 🔹 Full Stack Application
+- Desenvolvimento completo (Frontend + Backend)
+- Integração entre camadas e validação funcional antes do deploy
+- Identificação e resolução de bugs em toda a stack
 
 ### 🔹 Web Automation — Cypress
 - Suíte E2E em aplicação e-commerce real
@@ -64,23 +75,24 @@ Minha vivência como desenvolvedor me dá uma visão **end-to-end** das aplicaç
 - Automação E2E com cobertura cross-browser
 - *(em breve: detalhes do projeto)*
 
+### 🔹 Unit & Integration Testing — Jest
+- Testes unitários e de integração em aplicações Node.js
+- Uso de **mocks**, **spies** e relatórios de **coverage**
+- Validação de regras de negócio em camada de serviço
+
 ### 🔹 API Testing
 - Validação de APIs com Postman
 - Verificação de status codes, response body e regras de negócio
 - Collections automatizadas com validação de dados via SQL
 
-### 🔹 Full Stack Application
-- Desenvolvimento completo (Frontend + Backend)
-- Testes de integração e validação funcional antes do deploy
-- Identificação e resolução de bugs em toda a stack
-
 ---
 
 ## 📈 Estudando atualmente
 
-- ⚡ Performance Testing
-- 📚 QA Best Practices avançadas
-- 🧪 CI/CD aplicado a testes automatizados
+- ⚡ **Performance Testing**
+- 🧪 **QA Best Practices** avançadas
+- 🔁 **CI/CD** aplicado a pipelines de testes automatizados
+- 🏗️ Arquitetura de software e Clean Code
 
 ---
 
@@ -98,5 +110,5 @@ Minha vivência como desenvolvedor me dá uma visão **end-to-end** das aplicaç
 ---
 
 <p align="center">
-  ⭐ <em>Sempre aprendendo, testando e elevando a qualidade do software.</em>
+  ⭐ <em>Desenvolvendo, testando e entregando software com qualidade.</em>
 </p>
