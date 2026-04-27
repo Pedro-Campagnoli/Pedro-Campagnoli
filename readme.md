@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou Pedro Campagnoli</h1>
 
 <p align="center">
-  💻 <strong>Full Stack Developer</strong> • Node.js • NestJS • React • Next.js<br/>
-  🧪 <strong>QA Engineer</strong> • Test Automation • API Testing • Software Quality<br/>
+  💻 <strong>Desenvolvedor Full Stack</strong> • Node.js • NestJS • React • Next.js<br/>
+  🧪 <strong>QA Engineer</strong> • Automação de Testes • Testes de API • Qualidade de Software<br/>
   🚀 Construindo software com qualidade de ponta a ponta
 </p>
 
@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Profissional de tecnologia com atuação **dual** em **Desenvolvimento Full Stack** e **Quality Assurance**.
+Profissional de tecnologia com atuação **dual** em **Desenvolvimento Full Stack** e **Qualidade de Software**.
 
 Essa combinação me permite **construir aplicações robustas** e, ao mesmo tempo, **garantir sua qualidade** através de testes estratégicos — desde o código até a experiência do usuário final.
 
@@ -18,85 +18,85 @@ Essa combinação me permite **construir aplicações robustas** e, ao mesmo tem
 
 ---
 
-## 💻 Full Stack Development
+## 💻 Desenvolvimento Full Stack
 
 ### ⚙️ Backend
-- **Node.js** • **NestJS**
-- Desenvolvimento de **REST APIs**
+- **Node.js** • **NestJS** • **Python** • **Java** • **PHP**
+- Desenvolvimento de **APIs REST**
 - Arquitetura modular e boas práticas de código
 
 ### 🎨 Frontend
 - **JavaScript** • **HTML** • **CSS**
 - **React.js** • **Next.js**
-- **Tailwind CSS** — utility-first, design responsivo
+- **Tailwind CSS** — estilização com classes utilitárias e design responsivo
 - Construção de interfaces responsivas e fluxos de usuário intuitivos
 
 ### 🗄️ Banco de Dados & Ferramentas
-- **SQL** — modelagem e queries
+- **SQL** — modelagem e consultas
 - **Git & GitHub** — versionamento e colaboração
 - **Postman** — desenvolvimento e teste de APIs
 
 ---
 
-## 🧪 Quality Assurance
+## 🧪 Qualidade de Software
 
-### 🤖 Test Automation
-- **Cypress** — E2E automation, custom commands, arquitetura modular
-- **Playwright** — E2E automation, cross-browser testing
-- **Jest** — testes unitários e de integração, mocking, coverage reports
+### 🤖 Automação de Testes
+- **Cypress** — automação E2E, custom commands e arquitetura modular
+- **Playwright** — automação E2E com testes cross-browser
+- **Jest** — testes unitários e de integração, mocks e relatórios de cobertura
 
-### 🔌 API & Data Testing
+### 🔌 Testes de API e Dados
 - **Postman** — validação de endpoints, status codes, response body e regras de negócio
-- **SQL Data Validation** — verificação de integridade de dados
+- **Validação de Dados via SQL** — verificação de integridade de dados
 
 ### 🧩 Práticas de QA
 | Área | Competências |
 |------|--------------|
-| 🧪 **Testes Funcionais** | Functional & Regression Testing |
-| 📝 **Documentação** | Test Case Design & Documentation |
-| 🐛 **Gestão de Bugs** | Bug Tracking & Reporting |
-| 🔄 **Metodologias** | Agile Testing (Scrum / Kanban) |
+| 🧪 **Testes Funcionais** | Testes Funcionais e de Regressão |
+| 📝 **Documentação** | Criação e Documentação de Casos de Teste |
+| 🐛 **Gestão de Bugs** | Rastreamento e Reporte de Bugs |
+| 🔄 **Metodologias** | Testes Ágeis (Scrum / Kanban) |
 
 ---
 
 ## 📂 Portfólio
 
-### 🔹 Full Stack Application
+### 🔹 Aplicação Full Stack
 - Desenvolvimento completo (Frontend + Backend)
 - Integração entre camadas e validação funcional antes do deploy
 - Identificação e resolução de bugs em toda a stack
 
-### 🔹 Web Automation — Cypress
-- Suíte E2E em aplicação e-commerce real
+### 🔹 Automação Web — Cypress
+- Suíte E2E em aplicação de e-commerce real
 - Arquitetura modular com **custom commands** por domínio
 - Cobertura de autenticação, formulários, navegação e validações de UI
 
-### 🔹 Web Automation — Playwright
+### 🔹 Automação Web — Playwright
 - Automação E2E com cobertura cross-browser
 - *(em breve: detalhes do projeto)*
 
-### 🔹 Unit & Integration Testing — Jest
+### 🔹 Testes Unitários e de Integração — Jest
 - Testes unitários e de integração em aplicações Node.js
-- Uso de **mocks**, **spies** e relatórios de **coverage**
-- Validação de regras de negócio em camada de serviço
+- Uso de **mocks**, **spies** e relatórios de **cobertura**
+- Validação de regras de negócio na camada de serviço
 
-### 🔹 API Testing
+### 🔹 Testes de API
 - Validação de APIs com Postman
 - Verificação de status codes, response body e regras de negócio
-- Collections automatizadas com validação de dados via SQL
+- Coleções automatizadas com validação de dados via SQL
 
 ---
 
 ## 📈 Estudando atualmente
 
-- ⚡ **Performance Testing**
-- 🧪 **QA Best Practices** avançadas
+- ⚡ **Testes de Performance**
+- 🧪 **Boas práticas avançadas de QA**
 - 🔁 **CI/CD** aplicado a pipelines de testes automatizados
 - 🏗️ Arquitetura de software e Clean Code
 
 ---
 
-## 🤝 Vamos conectar?
+## 🤝 Vamos nos conectar?
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-campagnoli-52737325b/">
