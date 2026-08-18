@@ -1,86 +1,143 @@
 <h1 align="center">👋 Olá, eu sou Pedro Campagnoli</h1>
 
 <p align="center">
-  💻 <strong>Desenvolvedor Full Stack</strong> • Node.js • NestJS • React • Next.js<br/>
-  🧪 Background em <strong>QA e Automação de Testes</strong> — testo o que eu mesmo construo<br/>
-  🚀 Construindo software com qualidade de ponta a ponta
+  ⚙️ <strong>Backend Developer</strong> • Node.js • TypeScript • NestJS • Express<br/>
+  ▲ Desenvolvimento web com <strong>Next.js</strong> • React • Tailwind CSS<br/>
+  🤖 Explorando <strong>IA aplicada ao desenvolvimento</strong> e Spec-Driven Development
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Desenvolvedor **Full Stack**, atuando com **Node.js**, **NestJS**, **React** e **Next.js** na construção de aplicações completas — do banco de dados à interface.
+Sou desenvolvedor de software formado em **Análise e Desenvolvimento de Sistemas**, com foco principal em desenvolvimento **backend e no ecossistema Node.js**.
 
-Antes de migrar para desenvolvimento, atuei como **QA Engineer**. Essa bagagem virou meu maior diferencial hoje: penso em testabilidade, cobertura e cenários de borda desde o design da solução, não só depois que o código já está pronto.
+Tenho experiência com **TypeScript, NestJS e Express** na construção de APIs REST, utilizando arquitetura modular, bancos relacionais, ORMs e ambientes containerizados. Profissionalmente, também atuo com **PHP** no desenvolvimento e manutenção de sistemas, e-commerces e soluções corporativas integradas a ERPs.
 
-> 💡 Desenvolver bem e testar bem não são etapas separadas — são a mesma mentalidade.
+No frontend, trabalho principalmente com **Next.js e React**, desenvolvendo interfaces, painéis administrativos e aplicações web integradas às APIs que construo. Gosto de entender e trabalhar na aplicação como um todo, mesmo mantendo backend como minha principal área de especialização.
 
----
+Também possuo experiência com **Qualidade de Software e automação de testes**, conhecimento que utilizo como complemento para desenvolver aplicações mais confiáveis e testáveis. Atualmente estudo ainda **Spec-Driven Development** e o uso de agentes de IA como **Claude Code e Codex** para melhorar o processo de desenvolvimento.
 
-## 💻 Desenvolvimento Full Stack
-
-### ⚙️ Backend
-- **Node.js** • **NestJS** • **Python** • **Java** • **PHP**
-- Desenvolvimento de **APIs REST**
-- Arquitetura modular e boas práticas de código
-
-### 🎨 Frontend
-- **JavaScript** • **HTML** • **CSS**
-- **React.js** • **Next.js**
-- **Tailwind CSS** — estilização com classes utilitárias e design responsivo
-- Construção de interfaces responsivas e fluxos de usuário intuitivos
-
-### 🗄️ Banco de Dados & Ferramentas
-- **SQL** — modelagem e consultas
-- **Git & GitHub** — versionamento e colaboração
-- **Postman** — desenvolvimento e teste de APIs
+> 💡 Gosto de entender o produto de ponta a ponta, da regra de negócio e banco de dados até a experiência entregue na interface.
 
 ---
 
-## 🧪 QA como diferencial
+## ⚙️ Backend
 
-- Automação E2E com **Cypress** e **Playwright**
-- Testes unitários e de integração com **Jest** — mocks, spies e cobertura
-- Testes de API com **Postman**, incluindo validação de dados via SQL
-- Testes Ágeis (Scrum / Kanban) e documentação de casos de teste
+* **Node.js**
+* **TypeScript**
+* **NestJS**
+* **Express**
+* **PHP**
+* Desenvolvimento de **APIs REST**
+* Arquitetura modular
+* Autenticação e autorização
+* Integração entre sistemas e serviços externos
+* Implementação de regras de negócio
 
 ---
 
-## 📂 Portfólio
+## ▲ Frontend
 
-### 🔹 Aplicação Full Stack
-- Desenvolvimento completo (Frontend + Backend)
-- Integração entre camadas e validação funcional antes do deploy
-- Identificação e resolução de bugs em toda a stack
+* **Next.js**
+* **React**
+* **TypeScript**
+* **JavaScript**
+* **Tailwind CSS**
+* **HTML & CSS**
+* Integração com APIs REST
+* Desenvolvimento de dashboards e painéis administrativos
+* Componentização e organização de interfaces
+* Formulários, validação e gerenciamento de dados
+* Interfaces responsivas
 
-### 🔹 Automação Web — Cypress
-- Suíte E2E em aplicação de e-commerce real
-- Arquitetura modular com **custom commands** por domínio
-- Cobertura de autenticação, formulários, navegação e validações de UI
+---
 
-### 🔹 Automação Web — Playwright
-- Automação E2E com cobertura cross-browser
-- *(em breve: detalhes do projeto)*
+## 🗄️ Banco de Dados & Infraestrutura
 
-### 🔹 Testes Unitários e de Integração — Jest
-- Testes unitários e de integração em aplicações Node.js
-- Uso de **mocks**, **spies** e relatórios de **cobertura**
-- Validação de regras de negócio na camada de serviço
+* **PostgreSQL**
+* **MySQL**
+* **SQLite**
+* **Prisma ORM**
+* **Docker**
+* **SQL**
+* Modelagem e consultas em bancos relacionais
 
-### 🔹 Testes de API
-- Validação de APIs com Postman
-- Verificação de status codes, response body e regras de negócio
-- Coleções automatizadas com validação de dados via SQL
+---
+
+## 🤖 IA aplicada ao desenvolvimento
+
+Tenho estudado formas de utilizar IA como ferramenta dentro do processo de engenharia de software.
+
+* **Claude Code**
+* **Codex**
+* **Spec-Driven Development**
+* Criação e organização de **agents e skills**
+* Desenvolvimento orientado por especificações
+* Automação de tarefas de desenvolvimento
+* Uso de IA para planejamento, análise e implementação
+
+---
+
+## 🧪 Qualidade de Software
+
+Minha experiência com QA complementa minha atuação como desenvolvedor.
+
+* Automação E2E com **Playwright** e **Cypress**
+* Testes unitários e de integração com **Jest**
+* Testes de API com **Postman**
+* Testes funcionais e regressivos
+* Validação de regras de negócio
+* Análise de cenários de borda e testabilidade
+
+---
+
+## 📂 Projetos
+
+### 🔹 Backend com Node.js
+
+Desenvolvimento de APIs REST utilizando **Node.js, TypeScript e NestJS**, trabalhando com:
+
+* arquitetura modular;
+* autenticação e autorização;
+* bancos relacionais;
+* Prisma ORM;
+* Docker;
+* validação de dados;
+* regras de negócio;
+* integração entre serviços.
+
+### 🔹 Aplicações com Next.js
+
+Desenvolvimento de aplicações web utilizando **Next.js, React e TypeScript**, trabalhando com:
+
+* integração com APIs;
+* dashboards e painéis administrativos;
+* formulários e validação de dados;
+* componentes reutilizáveis;
+* interfaces responsivas;
+* organização modular de features.
+
+### 🔹 Aplicações Full Stack
+
+Desenvolvimento e integração das diferentes camadas da aplicação, utilizando **Next.js no frontend** e APIs backend com **Node.js/NestJS**.
+
+### 🔹 Automação e Testes
+
+Automação de fluxos E2E com **Playwright e Cypress**, além de testes de APIs REST utilizando **Postman**.
 
 ---
 
 ## 📈 Estudando atualmente
 
-- 🏗️ Arquitetura de software e Clean Code
-- 🔁 **CI/CD** e pipelines de deploy
-- ⚡ Testes de Performance
-- 🧪 Boas práticas avançadas de QA
+* 🏗️ Arquitetura de Software
+* ⚙️ Backend com **Node.js e NestJS**
+* ▲ **Next.js e arquitetura frontend**
+* 🧩 Design e organização de aplicações modulares
+* 🐳 Docker e ambientes de desenvolvimento
+* 🔁 CI/CD
+* 🤖 Agentes de IA para desenvolvimento
+* 📋 Spec-Driven Development
 
 ---
 
@@ -98,5 +155,5 @@ Antes de migrar para desenvolvimento, atuei como **QA Engineer**. Essa bagagem v
 ---
 
 <p align="center">
-  ⭐ <em>Desenvolvendo, testando e entregando software com qualidade.</em>
+  ⭐ <em>Construindo aplicações da API à interface, com foco em código organizado e fácil de evoluir.</em>
 </p>
